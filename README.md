@@ -22,6 +22,7 @@ Below is the School summary before replacing 9th grade score with NaNs at Thomas
 ![School Summary before replacing 9th grade and THS](https://github.com/dhaval-28/School_District_Analysis/blob/main/School_Summary_BeforeReplacement.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+As you can see in the images above, Thomas High School's overall performance went down from 95% to 65%. 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 #### Scores by school spending
