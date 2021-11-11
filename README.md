@@ -20,6 +20,6 @@ Below is the School summary before replacing 9th grade score with NaNs at Thomas
 ##### Scores by school spending
 ##### Scores by school size
 ##### Scores by school type
-
+ 
 
 ## Summary
