@@ -30,34 +30,43 @@ Math Score Before replacing with NaNs :
 ![Math scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/MathScore-at%20gradelevel-Before.png)
 
 Math Score After replacing with NaNs :
+
 ![Math scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/MathScore-at%20gradelevel-after.png)
 
 #### How does replacing the ninth-grade scores affect the following:Reading scores by grade
 Reading Score Before replacing with NaNs :
+
 ![Reading scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/ReadingScore-at%20gradelevel-before.png)
 
 Reading Score After replacing with NaNs :
+
 ![Reading scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/MathScore-at%20gradelevel-after.png)
 
 #### How does replacing the ninth-grade scores affect the following:Scores by school spending
 Before
+
 ![Scores by school spending](https://github.com/dhaval-28/School_District_Analysis/blob/main/Spending-Before.png)
 
 After
+
 ![Scores by school spending](https://github.com/dhaval-28/School_District_Analysis/blob/main/Spending-After.png)
 
 #### How does replacing the ninth-grade scores affect the following:Scores by school size
 Before
+
 ![Scores by school size](https://github.com/dhaval-28/School_District_Analysis/blob/main/SchoolSize-Before.png)
 
 After
+
 ![Scores by school size](https://github.com/dhaval-28/School_District_Analysis/blob/main/SchoolSize-After.png)
 
 #### How does replacing the ninth-grade scores affect the following:Scores by school size
  Before
+ 
 ![Scores by school size](https://github.com/dhaval-28/School_District_Analysis/blob/main/SchoolType-Before.png)
 
 After
+
 ![Scores by school size](https://github.com/dhaval-28/School_District_Analysis/blob/main/SchoolType-After.png)
 
 
