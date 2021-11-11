@@ -8,8 +8,8 @@ The file shows evidence of academic dishonesty; specifically, reading and math g
 
 #### How is the district summary affected?
 #### How is the school summary affected?
-![School Summary after replacing 9th grade and THS ](http://localhost:8888/view/Module4%20Pandas/School_District_Analysis/School_Summary_AfterReplacement.png)
-![School Summary before replacing 9th grade and THS ]http://localhost:8888/view/Module4%20Pandas/School_District_Analysis/School_Summary_BeforeReplacement.png
+![School Summary after replacing 9th grade and THS](http://localhost:8888/view/Module4%20Pandas/School_District_Analysis/School_Summary_AfterReplacement.png)
+![School Summary before replacing 9th grade and THS ](http://localhost:8888/view/Module4%20Pandas/School_District_Analysis/School_Summary_BeforeReplacement.png)
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### How does replacing the ninth-grade scores affect the following:
