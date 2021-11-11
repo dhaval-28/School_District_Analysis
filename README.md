@@ -25,6 +25,7 @@ Below is the School summary before replacing 9th grade score with NaNs at Thomas
 As you can see in the images above, Thomas High School's overall performance went down from 90% to 65%. This puts Thomas High School from one of the top performing school to one of the average performing schools. 
 
 ### How does replacing the ninth-grade scores affect the following: Math scores by grade
+Replacing 9th grade score with NaNs at Thomas High Shcool did not change math score. 
 Math Score Before replacing with NaNs :
 
 ![Math scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/MathScore-at%20gradelevel-Before.png)
