@@ -2,6 +2,7 @@
 
 ## Purpose
 The file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. The purpose of this analysis is to replace the math and reading scores for Thomas High School ninth grade with NaNs while keeping the rest of the data intact. 
+The main file is available at : ![Click here](https://github.com/dhaval-28/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 
 ## Results:
