@@ -7,7 +7,7 @@ The file shows evidence of academic dishonesty; specifically, reading and math g
 ## Results:
 
 #### How is the district summary affected?
-#### How is the school summary affected?
+#### How is the school summary affected? School Summary after replacing 9th grade and THS
 ![after](http://localhost:8888/view/Module4%20Pandas/School_District_Analysis/School_Summary_AfterReplacement.png)
 ![before](http://localhost:8888/view/Module4%20Pandas/School_District_Analysis/School_Summary_BeforeReplacement.png)
 
