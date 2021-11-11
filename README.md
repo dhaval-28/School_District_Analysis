@@ -22,12 +22,43 @@ Below is the School summary before replacing 9th grade score with NaNs at Thomas
 ![School Summary before replacing 9th grade and THS](https://github.com/dhaval-28/School_District_Analysis/blob/main/School_Summary_AfterReplacement.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-As you can see in the images above, Thomas High School's overall performance went down from 95% to 65%. 
+As you can see in the images above, Thomas High School's overall performance went down from 90% to 65%. This puts Thomas High School from one of the top performing school to one of the average performing schools. 
+
 ### How does replacing the ninth-grade scores affect the following:
-#### Math and reading scores by grade
+#### Math scores by grade
+Math Score Before replacing with NaNs :
+![Math scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/MathScore-at%20gradelevel-Before.png)
+
+Math Score After replacing with NaNs :
+![Math scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/MathScore-at%20gradelevel-after.png)
+
+#### Reading scores by grade
+Reading Score Before replacing with NaNs :
+![Reading scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/ReadingScore-at%20gradelevel-before.png)
+
+Reading Score After replacing with NaNs :
+![Reading scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/MathScore-at%20gradelevel-after.png)
+
 #### Scores by school spending
+Before
+![Scores by school spending](https://github.com/dhaval-28/School_District_Analysis/blob/main/Spending-Before.png)
+
+After
+![Scores by school spending](https://github.com/dhaval-28/School_District_Analysis/blob/main/Spending-After.png)
+
 #### Scores by school size
-#### Scores by school type
- 
+Before
+![Scores by school size](https://github.com/dhaval-28/School_District_Analysis/blob/main/SchoolSize-Before.png)
+
+After
+![Scores by school size](https://github.com/dhaval-28/School_District_Analysis/blob/main/SchoolSize-After.png)
+
+#### Scores by school size
+ Before
+![Scores by school size](https://github.com/dhaval-28/School_District_Analysis/blob/main/SchoolType-Before.png)
+
+After
+![Scores by school size](https://github.com/dhaval-28/School_District_Analysis/blob/main/SchoolType-After.png)
+
 
 ## Summary
