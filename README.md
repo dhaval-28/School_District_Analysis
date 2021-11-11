@@ -26,6 +26,7 @@ As you can see in the images above, Thomas High School's overall performance wen
 
 ### How does replacing the ninth-grade scores affect the following: Math scores by grade
 Math Score Before replacing with NaNs :
+
 ![Math scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/MathScore-at%20gradelevel-Before.png)
 
 Math Score After replacing with NaNs :
