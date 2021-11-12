@@ -22,7 +22,8 @@ Below is the School summary before replacing 9th grade score with NaNs at Thomas
 ![School Summary before replacing 9th grade and THS](https://github.com/dhaval-28/School_District_Analysis/blob/main/Images/School_Summary_AfterReplacement.png)
 
 ---> Summary after replacing 9th grade with NaNs at Thomas High School and not including 9th grade students in total count.  The average score at Thomas High School reamined same. 
-![School Summary before replacing 9th grade and THS](http://localhost:8888/view/Class/Module4%20Pandas/School_District_Analysis/Images/School_Summary_AfterReplacement-exclue9.png)
+![School Summary before replacing 9th grade and THS]
+(http://localhost:8888/view/Class/Module4%20Pandas/School_District_Analysis/Images/School_Summary_AfterReplacement-exclue9.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 As you can see in the images above, Thomas High School's overall performance went down from 90% to 65%. This puts Thomas High School from one of the top performing school to one of the average performing schools. 
