@@ -50,7 +50,7 @@ Reading Score After replacing with NaNs :
 NaN's did not substantially effect the output of our spending summary.
 
 Before
-
+ 
 ![Scores by school spending](https://github.com/dhaval-28/School_District_Analysis/blob/main/Images/Spending-Before.png)
 
 After
