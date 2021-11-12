@@ -84,3 +84,8 @@ After
 
 
 ## Summary
+- Score values for 9th grade at Thomas High School were replaced with NaN's
+- Overall score of Thomas High School went down if 9th grade students from Thomas High school are included in total count
+- If 9th grade students from Thomas High School are excluded in total count then there is extremely marginal change between the original score and new score.
+- Once we update our data frame with the correct data, Thomas High School remains as a top 2 school in terms of passing percentage.
+
