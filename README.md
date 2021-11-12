@@ -44,7 +44,7 @@ Reading Score Before replacing with NaNs :
 
 Reading Score After replacing with NaNs :
 
-![Reading scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/Images/MathScore-at%20gradelevel-after.png)
+![Reading scores by grade](https://github.com/dhaval-28/School_District_Analysis/blob/main/Images/ReadingScore-at%20gradelevel-after.png)
 
 ### How does replacing the ninth-grade scores affect the following:Scores by school spending
 NaN's did not substantially effect the output of our spending summary.
